@@ -1,5 +1,6 @@
 # 👋 Hi, Full-stack web developer.
-- React/Next, Typescript, Vue, HTML, CSS, JQuery, JavaScript, Node/RESTful APIs, Python/Django, Django REST framwork, Node/Express
+- Frontend: React/Next, Typescript, Vue, HTML, CSS, JQuery, JavaScript
+- Backend: Ruby on rails, Python/Django, Django REST framwork, Node/Express
 - Web3: ethers.js, web3.js, Polkadot.js
 - Postgres, MySQL, MongoDB, ...
 
