@@ -1,6 +1,6 @@
 # 👋 Hi, Software Engineer.
 - Frontend: React/Next, Typescript, Vue, HTML, CSS, JQuery, JavaScript
-- Backend: Ruby on rails, Python/Django, Django REST framwork, Node Ecosystem
+- Backend: Ruby on rails, C#/.Net, Java/Spring, Node Ecosystem
 - Web3: ethers.js, web3.js, Polkadot.js
 - Postgres, MySQL, MongoDB, Firebase...
 
